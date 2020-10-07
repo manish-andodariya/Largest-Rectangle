@@ -5,6 +5,6 @@ Find the largest rectangular area possible in a given histogram where the larges
 For example, consider the following histogram with 7 bars of heights {6, 2, 5, 4, 5, 1, 6}. The largest possible rectangle possible is 12 (see the below figure, the max area rectangle is highlighted in red)
 
 histogram
-https://media.geeksforgeeks.org/wp-content/cdn-uploads/histogram1.png
+![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/histogram1.png)
 
-Recommended: Please solve it on “PRACTICE ” first, before moving on to the solution.
+Recommended: Please solve it first, before moving on to the solution.
